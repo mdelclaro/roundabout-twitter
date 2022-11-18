@@ -1,6 +1,6 @@
 # Roundabout test twitter stream
 
-<p align="center">API to stream a specific user's tweets (/route</p>
+<p align="center">API to stream a specific user's tweets</p>
 
 
 ## Run the server
